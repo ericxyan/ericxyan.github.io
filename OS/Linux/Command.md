@@ -1,6 +1,5 @@
 Command
 ====================
-1. Add new user
 ````
 # Add a user: eric and create home directory /home/eric
 useradd -m eric 
@@ -16,4 +15,8 @@ sudo !!
 sudo -v
 # clean cache
 sudo -k
+# Show disk usage
+df
+du
+du -sh *
 ````

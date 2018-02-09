@@ -1,0 +1,1 @@
+# CompTIA Certification Note
